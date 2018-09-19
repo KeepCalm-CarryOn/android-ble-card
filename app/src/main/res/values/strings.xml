@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BLUE_YA TEST</string>
+    <string name="open_butten">On</string>
+    <string name="close_butten">Off</string>
+    <string name="connect_butten">Connect</string>
+    <string name="disconnect_butten">Disconnect</string>
+    <string name="send_butten">Send</string>
+    <string name="search_butten">Search</string>
+    <string name="toast_on">open bluetooth</string>
+    <string name="toast_off">close bluetooth</string>
+    <string name="toast_search">find bluetooth devices</string>>
+</resources>
